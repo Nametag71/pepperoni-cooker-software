@@ -9,6 +9,7 @@ basically i timed how long it takes to cook a pepperoni and checking every 10 se
 it takes 4 minutes and 30 seconds. i know it's slow but im not trying to melt the inside of my computer by actually giving that thing 12 volts which will make it ~400 degrees instead of 160-180 on 5v
 
 <img width="849" height="676" alt="image" src="https://github.com/user-attachments/assets/d889eacd-2dce-4262-93db-a7a72007bdb6" />
+fun fact there was originally a version of the timer with music but there wasn't a single song that DIDN'T say the n word (don't ask) so it was removed but we are working on a new version with music which will be in the next version
 
 # preheating
 like any oven, the pepperoni cooker will need to preheat before peppeoni cooking so it has that as well (it's also pretty slow but then again it's supposed to be inside of a computer, better safe then sorry). that's also done by a timer. there's not like a sensor or anything so it's what i could do.
