@@ -15,4 +15,5 @@ like any oven, the pepperoni cooker will need to preheat before peppeoni cooking
 
 <img width="869" height="687" alt="image" src="https://github.com/user-attachments/assets/31ae9116-5370-413e-bc60-6b12f4728ac5" />
 
-also i made this on RPG maker MV so technically this is a video game all it does is play some videos and i have a lot of experience with it so it was the best option so s
+also i made this on RPG maker MV so technically this is a video game all it does is play some videos and [i have a bit of experience with it](https://github.com/Nametag71/spis)
+ so it was the best option so s
