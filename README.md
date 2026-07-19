@@ -1,5 +1,5 @@
 # pepperoni cooker software (pepperoniWare)
-the [rainyware pepperoni cooker](https://rainyware.rainsounds2.com/projectpages-pepperonicooker/) is a very peak joose project involving cooking pepperonis inside of a 5.25" optical drive.
+the [rainyware pepperoni cooker](https://rainyware.org/projectpages-pepperonicooker/) is a very peak joose project involving cooking pepperonis inside of a 5.25" optical drive.
 but then like how do you know when the pepperoni is done cooking? how long do you heat up the cooker before putting a pepperoni in it?
 
 <img width="851" height="688" alt="image" src="https://github.com/user-attachments/assets/3418cb6a-5e42-4abc-ae93-707045a5f7a1" />
